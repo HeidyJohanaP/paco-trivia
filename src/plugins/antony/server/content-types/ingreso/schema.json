@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ingresos",
+  "info": {
+    "singularName": "ingreso",
+    "pluralName": "ingresos",
+    "displayName": "Ingresos"
+  },
+  "options": {
+    "draftAndPublish": true,
+    "comment": ""
+  },
+  "attributes": {
+    "Ip": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "email"
+    }
+  }
+}
